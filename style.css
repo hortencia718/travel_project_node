@@ -150,7 +150,7 @@ h2.mark{
 .booking{
     background: rgba(200, 223, 236, 0.92);
     padding:10px;
-    border:2px solid rgb(228, 46, 46);
+    /* border:2px solid rgb(228, 46, 46); */
 }
 
 .booking-content h2 {
@@ -193,7 +193,7 @@ div#content{
     max-width:100%;
     margin:0 auto;
     position: relative;
-    border: 2px solid rgb(233, 20, 162);
+    /* border: 2px solid rgb(233, 20, 162); */
 }
 
 
